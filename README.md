@@ -50,10 +50,4 @@ I'm Ahmer, a passionate Full Stack Web Developer specializing in the MERN stack,
 
 ---
 
-## 📊 GitHub Stats
-
-![Ahmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmer-arain&show_icons=true&hide_title=true)
-
----
-
 _Always learning, building, and ready for new challenges!_
