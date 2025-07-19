@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ahmerarain/ahmerarain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmer, a passionate Full Stack Web Developer specializing in the MERN stack, TypeScript, and scalable web applications. With hands-on experience building real-world products from the ground up, I love turning complex ideas into intuitive, modern solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmer-arain/)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ahmerarain)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/ahmerarain18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=vercel&logoColor=white)](https://portfolio-ahmerarain.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahmer-arain)
+
+---
+
+## 💡 Technical Skills & Expertise
+
+- Full Stack Web Development (MERN Stack, Next.js, TypeScript)
+- Scalable and real-time applications (Socket.IO, WebSockets)
+- UI/UX design with TailwindCSS, ShadCN, Material UI
+- RESTful APIs, Microservices, Cloud Deployments (AWS, Heroku)
+- Database Management (MongoDB, PostgreSQL, MySQL)
+- DevOps & CI/CD (GitHub Actions, Codespaces)
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+...and more!
+
+---
+
+## 🌱 Interests
+
+- Real-time Web Applications
+- UI/UX and Clean Design
+- Scalable Product Architectures
+- Open Source & Community
+
+---
+
+## 📊 GitHub Stats
+
+![Ahmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmer-arain&show_icons=true&hide_title=true)
+
+---
+
+_Always learning, building, and ready for new challenges!_
