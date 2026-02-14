@@ -9,7 +9,7 @@ I'm Ahmer, a passionate Full Stack Web Developer specializing in the MERN stack,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmer-arain/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ahmerarain)  
 [![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/ahmerarain18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=vercel&logoColor=white)](https://portfolio-ahmerarain.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=vercel&logoColor=white)](https://ahmerarain.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahmer-arain)
 
 ---
